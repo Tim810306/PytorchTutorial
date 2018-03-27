@@ -27,6 +27,12 @@ $ pip3 install torchvision
 * [Lecture3:Gradient_Descent](https://github.com/Tim810306/PytorchTutorial/tree/master/tutorials/01-basics/Gradient_Descent/main.py)
 * [Lecture4:Back_propagration](https://github.com/Tim810306/PytorchTutorial/tree/master/tutorials/01-basics/Back_propagration/main.py)
 * [Lecture5:Linear_regression](https://github.com/Tim810306/PytorchTutorial/tree/master/tutorials/01-basics/Linear_regression/main.py)
+* [Lecture6:Logistic_regression](https://github.com/Tim810306/PytorchTutorial/tree/master/tutorials/01-basics/Logistic_regression/main.py)
+* [Lecture7:Wide_Deep](https://github.com/Tim810306/PytorchTutorial/tree/master/tutorials/01-basics/Wide_Deep/main.py)
+* [Lecture8:DataLoader](https://github.com/Tim810306/PytorchTutorial/tree/master/tutorials/01-basics/DataLoader/main.py)
+* [Lecture8:DataLoader_logistic](https://github.com/Tim810306/PytorchTutorial/tree/master/tutorials/01-basics/DataLoader/main_logistic.py)
+* [Lecture9:Softmax_Classifier](https://github.com/Tim810306/PytorchTutorial/tree/master/tutorials/01-basics/Softmax_Classifier/main.py)
+* [Lecture9:Softmax_Classifier_mnist](https://github.com/Tim810306/PytorchTutorial/tree/master/tutorials/01-basics/Softmax_Classifier/main_mnist.py)
 
 #### 2. Intermediate
 * [Convolutional Neural Network](https://github.com/Tim810306/PytorchTutorial/tree/master/tutorials/02-intermediate/convolutional_neural_network/main.py#L33-L53)
@@ -54,6 +60,7 @@ $ git clone https://github.com/Tim810306/PytorchTutorial.git
 $ cd PytorchTutorial/tutorials/project_path
 $ python main.py               # cpu version
 $ python main-gpu.py           # gpu version
+$ python main_XXX.py           # execute XXX for cpu version
 ```
 
 <br/>
