@@ -10,6 +10,8 @@ This repository provides tutorial code for deep learning researchers to learn [P
 ## Table of Contents
 #### PPTs
 * [PyTorchZeroToAll](https://drive.google.com/drive/folders/0B41Zbb4c8HVyUndGdGdJSXd5d3M)
+#### Videos
+* [PyTorchZeroToAll-lecture1~lecture4-Chinese version](https://youtu.be/MuyUFqJf_Ug)
 #### Install
 * [PyTorch install]
 ## Getting Installed for OSX pip 3.6 without coda
